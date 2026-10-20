@@ -1,0 +1,32 @@
+{
+    "ORD1001": {
+        "order_id": "ORD1001",
+        "customer_name": "Rahul",
+        "product": "Running Shoes",
+        "status": "Shipped",
+        "estimated_delivery": "2026-10-20",
+        "amount": 2499,
+        "payment_status": "Paid",
+        "refund_eligible": false
+    },
+    "ORD1002": {
+        "order_id": "ORD1002",
+        "customer_name": "Priya",
+        "product": "Sports Backpack",
+        "status": "Delivered",
+        "estimated_delivery": "2026-10-15",
+        "amount": 1499,
+        "payment_status": "Paid",
+        "refund_eligible": true
+    },
+    "ORD1003": {
+        "order_id": "ORD1003",
+        "customer_name": "Amit",
+        "product": "Fitness Watch",
+        "status": "Processing",
+        "estimated_delivery": "2026-10-25",
+        "amount": 3999,
+        "payment_status": "Paid",
+        "refund_eligible": false
+    }
+}
